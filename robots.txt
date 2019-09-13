@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxeijeip.jumo.nu/sitemap.xml
